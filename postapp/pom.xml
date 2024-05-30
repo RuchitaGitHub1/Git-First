@@ -43,7 +43,7 @@
 			</plugin>
 		</plugins>
 	<finalName>MyFirstProj</finalName>
-	</build>
 
+	</build>
 
 </project>
